@@ -1,0 +1,4 @@
+1. dynamic vabe css add korbo, 
+2. list faka rakhbo
+3. select clic korle player er name add korbo
+3. select korar kajta for loop diye kora jay kina try korbo.
